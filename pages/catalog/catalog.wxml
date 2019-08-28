@@ -1,0 +1,59 @@
+<!--pages/catalog/catalog.wxml-->
+<view class="catalog">
+  <view class="catalog-body">
+    <view class="topic">
+      <view class="topic-label">
+        <text>专题</text>
+      </view>
+      <view class="topic-panel">
+        <view class="topic-panel-list">
+          <view class="topic-panel-item">
+            豪门总裁言情
+          </view>
+          <view class="topic-panel-item">
+            穿越宫斗小说
+          </view>
+          <view class="topic-panel-item">
+            名著经典
+          </view>
+          <view class="topic-panel-item">
+            武侠小说
+          </view>
+          <view class="topic-panel-item">
+            都市小说
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="type">
+      <view class="type-label">
+        <text>分类</text>
+      </view>
+      <view class="type-panel">
+        <view class="type-panel-list">
+          <view class="type-panel-item">
+            玄幻奇幻
+          </view>
+          <view class="type-panel-item">
+            美文同人
+          </view>
+          <view class="type-panel-item">
+            名著杂志
+          </view>
+          <view class="type-panel-item">
+            科幻灵异
+          </view>
+          <view class="type-panel-item">
+            武侠仙侠
+          </view>
+          <view class="type-panel-item">
+            女频言情
+          </view>
+          <view class="type-panel-item">
+            现代都市
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

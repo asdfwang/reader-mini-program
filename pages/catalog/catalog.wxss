@@ -1,0 +1,66 @@
+/* pages/catalog/catalog.wxss */
+.catalog{
+  width: 100vw;
+  min-height:100vh; 
+  background: #ffffff;
+  display: block;
+  border-top:1px solid #F6F6F6;
+}
+.catalog-body{
+  width: 100vw; 
+  display: block;
+  background: url(http://134.175.3.16/vant/miniprogram/timg.png);
+}
+.topic, .type{
+  width: 100vw;
+  display: block;
+  background: #ffffff;
+}
+ .type{
+   margin-top: 18rpx;
+   padding-top: 8rpx;
+ }
+ .topic-label, .type-label{
+   width: 100vw;
+   margin-top: 40rpx;
+ }
+.topic-label text, .type-label text{
+  width: auto;
+  padding: 6rpx 28rpx;
+  color:#ffffff;
+  border-radius: 10rpx;
+  margin-left: 30rpx;
+}
+.topic-label text{
+  background: red;
+}
+.type-label text{
+  background: #01c099;
+  margin-top: 30rpx;
+}
+.topic-panel, .type-panel{
+  margin-top: 30rpx;
+}
+.topic-panel .topic-panel-item{
+  display: inline-block;
+  border: 1px solid red;
+  margin-top: 20rpx;
+  padding: 5rpx 15rpx;
+  margin-left: 35rpx;
+  color:red;
+  border-radius:10rpx;
+  font-size: 0.8rem;
+}
+.topic-panel .topic-panel-item:last-child{
+  margin-bottom: 45rpx;
+}
+.type-panel .type-panel-item{
+  display: inline-block;
+  border: 1px solid #01c099;
+  margin-top: 20rpx;
+  padding: 5rpx 20rpx;
+  margin-left: 30rpx;
+  color:#01c099;
+  border-radius:10rpx;
+  font-size: 0.9rem;
+}

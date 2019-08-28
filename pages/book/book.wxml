@@ -1,0 +1,74 @@
+<!--pages/book/book.wxml-->
+<view class="book">
+  <view class="book-container">
+    <view class="book-top">
+      <view class="top-search">
+        <input placeholder="请输入搜索关键词..."/>
+      </view>
+      <view class="top-btn">
+        <image src="http://134.175.3.16/vant/miniprogram/search.png"></image>
+      </view>
+    </view>
+    <view class="book-list-body">
+      <view class="book-list">
+        <view class="book-list-item">
+          <view class="item-panel">
+            <view class="item-panel-img">
+              <image src="http://134.175.3.16/vant/caszsc.jpg"></image>
+            </view>
+            <view class="item-panel-info">
+              <view class="info-title">
+                <rich-text>丹道狂医</rich-text>
+              </view>
+              <view class="info-intro">
+                <text>小村医生连生为村里人免费看病，专治各种妇科顽疾，次次起死回生，村里的女人都喜欢找他</text>
+              </view>
+              <view class="info-more">
+                <text class="author">老鼠侃猫</text>
+                <text class="read">91702人在追</text>
+              </view>
+            </view>
+          </view>
+        </view>
+        <view class="book-list-item">
+          <view class="item-panel">
+            <view class="item-panel-img">
+              <image src="http://134.175.3.16/vant/caszsc.jpg"></image>
+            </view>
+            <view class="item-panel-info">
+              <view class="info-title">
+                <rich-text>丹道狂医</rich-text>
+              </view>
+              <view class="info-intro">
+                <text>小村医生连生为村里人免费看病，专治各种妇科顽疾，次次起死回生，村里的女人都喜欢找他</text>
+              </view>
+              <view class="info-more">
+                <text class="author">老鼠侃猫</text>
+                <text class="read">91702人在追</text>
+              </view>
+            </view>
+          </view>
+        </view>
+        <view class="book-list-item">
+          <view class="item-panel">
+            <view class="item-panel-img">
+              <image src="http://134.175.3.16/vant/caszsc.jpg"></image>
+            </view>
+            <view class="item-panel-info">
+              <view class="info-title">
+                <rich-text>丹道狂医</rich-text>
+              </view>
+              <view class="info-intro">
+                <text>小村医生连生为村里人免费看病，专治各种妇科顽疾，次次起死回生，村里的女人都喜欢找他</text>
+              </view>
+              <view class="info-more">
+                <text class="author">老鼠侃猫</text>
+                <text class="read">91702人在追</text>
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

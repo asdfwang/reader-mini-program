@@ -1,0 +1,43 @@
+<!--pages/bookshelf.wxml-->
+<!-- <view class="top">
+  <text>书架</text>
+  <image src="http://134.175.3.16/vant/miniprogram/menu.png"  bindtap="configShelf"></image>
+</view> -->
+<view class="body">
+  <view class="container">
+    <view class="book-list">
+      <view class="book-list-item">
+        <block>
+          <block>
+            <image src="http://134.175.3.16/vant/caszsc.jpg"></image>
+          </block>
+          <rich-text>渡尸之才</rich-text>
+        </block>
+      </view>
+      <view class="book-list-item">
+        <block>
+          <block>
+            <image src="http://134.175.3.16/vant/caszsc.jpg"></image>
+          </block>
+          <rich-text>渡尸之才</rich-text>
+        </block>
+      </view>
+      <view class="book-list-item">
+        <block>
+          <block>
+            <image src="http://134.175.3.16/vant/caszsc.jpg"></image>
+          </block>
+          <rich-text>渡尸之才</rich-text>
+        </block>
+      </view>
+      <view class="book-list-item">
+        <block>
+          <block>
+            <image src="http://134.175.3.16/vant/caszsc.jpg"></image>
+          </block>
+          <rich-text>渡尸之才</rich-text>
+        </block>
+      </view>
+    </view>
+  </view>
+</view>
